@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://14dominoqq.kyletezak.com/sitemap.xml
+Sitemap: http://14bandarqq.kyletezak.com/sitemap.xml
